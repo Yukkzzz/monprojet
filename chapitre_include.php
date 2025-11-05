@@ -10,7 +10,7 @@
 <div id="container">
 <header>
 	Ici mon header
-</header> <!-- fermeture header -->
+</header> <!-- fermeture du header -->
 
 <nav>
 	<ul>
